@@ -106,7 +106,7 @@ class Index extends React.Component {
               <li>
                 {/* <span className="icon major style1 fa-code"></span> */}
                 <span className="image"><img src={imgPjGits} alt="" /></span>
-                <h2 className="section_subTitle">Plataforma GITS</h2>
+                <h2 className="section_subTitle">Plataforma Transporte Sanitario</h2>
                 <p><strong>Gestión Integral Transporte Sanitario.</strong><br/>
                  Seguimiento y gestión en Tiempo Real. 
                 </p>
